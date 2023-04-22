@@ -10,10 +10,14 @@ Este es un proyecto de código abierto para descargar videos y audios de YouTube
 
 ## Requerimientos del sistema
 
-- Python 3.5 o superior
-- El paquete `pytube`, se puede instalar con 
+- Python 3.1 o superior
+- El paquete `pytube`, se puede instalar con:
 ```
-pip install pytube:
+pip install pytube
+```
+- El paquete `tkinter`, normalmente se encuentra instalado por defecto pero se puede instalar con:
+```
+pip install tkinter
 ```
 
 ## Cómo usar
